@@ -16,7 +16,7 @@ Researcher can use this classifier to automatically distinguish a particular typ
 
 1. Start the docker image `docker run -it -v ~/mosquito_classifier/:/mosquito_classifier/ gcr.io/tensorflow/tensorflow:latest-devel`
 
-2. Run the mosq script to label the image. `python /mosquito_classifier/mosq.py <path_to_file>`
+2. Run the mosq script to label the image `python /mosquito_classifier/mosq.py <path_to_file>`
 
 # Results
 
