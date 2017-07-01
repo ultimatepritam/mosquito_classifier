@@ -18,5 +18,8 @@ Researcher can use this classifier to automatically distinguish a particular typ
 
 2. Run the mosq script to label the image `python /mosquito_classifier/mosq.py <path_to_file>`
 
-# Results
+# Accuracy
+![accuracy](screenshots/accuracy.png)
 
+# Results
+![results](screenshots/tet.png)
